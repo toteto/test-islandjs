@@ -6,7 +6,7 @@ export default defineConfig({
     nav: [
       {
         text: "Home",
-        link: "/",
+        link: "/test-islandjs/",
       },
     ],
     sidebar: {
@@ -16,11 +16,11 @@ export default defineConfig({
           items: [
             {
               text: "Fresh",
-              link: "/article/fresh",
+              link: "/test-islandjs/article/fresh",
             },
             {
               text: "Astro",
-              link: "/article/astro",
+              link: "/test-islandjs/article/astro",
             },
           ],
         },
