@@ -6,12 +6,12 @@ hero:
   text: React SSG 文档站
   tagline: 提供 React SSG 文档站模板
   image:
-    src: /test-islandjs/logo.png
+    src: /logo.png
     alt: Note
   actions:
     - theme: brand
       text: 点击查看
-      link: /test-islandjs/article/fresh
+      link: /article/fresh
     - theme: alt
       text: GitHub
       link: https://github.com/sanyuan0704/island.js

@@ -6,21 +6,21 @@ export default defineConfig({
     nav: [
       {
         text: "Home",
-        link: "/test-islandjs/",
+        link: "/",
       },
     ],
     sidebar: {
       "/": [
         {
-          text: "文章列表",
+          text: "Group",
           items: [
             {
               text: "Fresh",
-              link: "/test-islandjs/article/fresh",
+              link: "/article/fresh",
             },
             {
               text: "Astro",
-              link: "/test-islandjs/article/astro",
+              link: "/article/astro",
             },
           ],
         },
