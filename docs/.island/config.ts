@@ -1,6 +1,7 @@
 import { defineConfig } from "islandjs";
 
 export default defineConfig({
+  base: '/test-islandjs/',
   themeConfig: {
     nav: [
       {
