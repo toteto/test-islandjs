@@ -68,516 +68,516 @@
   "src/runtime/client-entry.tsx": [],
   "../../../../../client-entry.js-unocss-hash.css": [],
   "src/theme-default/layout/NotFountLayout/index.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/components/Switch/index.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/assets/sun.svg": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/assets/moon.svg": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/components/SwitchAppearance/index.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "../../../@islandjs+plugin-search@0.7.31_islandjs@0.7.31/node_modules/@islandjs/plugin-search/src/assets/search.svg": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "../../../@islandjs+plugin-search@0.7.31_islandjs@0.7.31/node_modules/@islandjs/plugin-search/src/assets/loading.svg": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "../../../@islandjs+plugin-search@0.7.31_islandjs@0.7.31/node_modules/@islandjs/plugin-search/src/component/Suggestion.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "../../../@islandjs+plugin-search@0.7.31_islandjs@0.7.31/node_modules/@islandjs/plugin-search/src/component/index.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/components/Nav/NavMenuSingleItem.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/assets/down.svg": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/assets/right.svg": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/assets/translator.svg": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/components/Nav/NavMenuGroup.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/components/SocialLinks/presetIcons.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/components/SocialLinks/LinkContent.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/components/SocialLinks/ShownLinks.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/components/SocialLinks/HiddenLinks.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/components/SocialLinks/index.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/logic/useLocaleSiteData.ts": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/logic/usePrevNextPage.ts": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/logic/useEditLink.ts": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/logic/utils.ts": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/logic/useSidebarData.ts": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/logic/useFrontmatter.ts": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/logic/useHeaders.ts": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/components/NavScreenMenuGroup/NavScreenMenuGroup.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/components/NavScreen/index.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/logic/useNav.ts": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/components/NavHambmger/index.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/components/Nav/index.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/components/Aside/index.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/components/DocFooter/index.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/components/Siderbar/index.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/components/LocalSideBar/index.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/layout/DocLayout/index.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/layout/APILayout/index.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "../../../@islandjs+plugin-backtop@0.7.31_islandjs@0.7.31/node_modules/@islandjs/plugin-backtop/src/component/index.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/layout/Layout/index.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/components/Button/index.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/components/HomeHero/index.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/components/HomeFeatures/index.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/components/HomeFooter/index.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/theme-default/layout/HomeLayout/index.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "../../../../../\u0000island:site-data": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/runtime/app.tsx": [
-    "/test-islandjs/assets/app.82724164.js"
+    "/test-islandjs/assets/app.3b8aaae5.js"
   ],
   "src/runtime/Content.tsx": [
-    "/test-islandjs/assets/Content.f8c6c12c.js"
+    "/test-islandjs/assets/Content.3d9b08c9.js"
   ],
   "../../../react-router-dom@6.3.0_react-dom@18.2.0_react@18.2.0/node_modules/react-router-dom/index.js": [
-    "/test-islandjs/assets/index.b4b1f172.js"
+    "/test-islandjs/assets/index.b8fd7a9a.js"
   ],
   "src/runtime/index.ts": [
-    "/test-islandjs/assets/index.987c82ad.js"
+    "/test-islandjs/assets/index.8775dc1d.js"
   ],
   "../../../../../docs/article/astro.md": [
-    "/test-islandjs/assets/astro.f3623975.js"
+    "/test-islandjs/assets/astro.a7566403.js"
   ],
   "../../../../../docs/article/fresh.md": [
-    "/test-islandjs/assets/fresh.19175694.js"
+    "/test-islandjs/assets/fresh.b4c0b56c.js"
   ],
   "../../../../../docs/index.md": [
-    "/test-islandjs/assets/index.3b733214.js"
+    "/test-islandjs/assets/index.a9d679cb.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_arrayMap.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/isArray.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_baseToString.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/identity.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/isFunction.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_coreJsData.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_isMasked.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_toSource.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_baseIsNative.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_getValue.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_getNative.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_WeakMap.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/noop.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_baseFindIndex.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_baseIsNaN.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_strictIndexOf.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_baseIndexOf.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_arrayIncludes.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_isIndex.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/eq.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/isLength.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/isArrayLike.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_isPrototype.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_baseTimes.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_baseIsArguments.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/isArguments.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/stubFalse.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/isBuffer.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_baseIsTypedArray.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_baseUnary.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_nodeUtil.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/isTypedArray.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_arrayLikeKeys.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_overArg.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_nativeKeys.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_baseKeys.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/keys.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_isKey.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_nativeCreate.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_hashClear.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_hashDelete.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_hashGet.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_hashHas.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_hashSet.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_Hash.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_listCacheClear.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_assocIndexOf.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_listCacheDelete.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_listCacheGet.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_listCacheHas.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_listCacheSet.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_ListCache.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_Map.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_mapCacheClear.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_isKeyable.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_getMapData.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_mapCacheDelete.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_mapCacheGet.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_mapCacheHas.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_mapCacheSet.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_MapCache.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/memoize.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_memoizeCapped.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_stringToPath.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/toString.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_castPath.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_toKey.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_baseGet.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/get.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_arrayPush.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_stackClear.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_stackDelete.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_stackGet.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_stackHas.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_stackSet.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_Stack.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_arrayFilter.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/stubArray.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_getSymbols.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_baseGetAllKeys.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_getAllKeys.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_DataView.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_Promise.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_Set.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_getTag.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_Uint8Array.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_setCacheAdd.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_setCacheHas.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_SetCache.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_arraySome.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_cacheHas.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_equalArrays.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_mapToArray.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_setToArray.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_equalByTag.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_equalObjects.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_baseIsEqualDeep.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_baseIsEqual.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_baseIsMatch.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_isStrictComparable.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_getMatchData.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_matchesStrictComparable.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_baseMatches.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_baseHasIn.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_hasPath.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/hasIn.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_baseMatchesProperty.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_baseProperty.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_basePropertyDeep.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/property.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_baseIteratee.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_arrayIncludesWith.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_createSet.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/_baseUniq.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../lodash-es@4.17.21/node_modules/lodash-es/uniqBy.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../../../\u0000/home/runner/work/test-islandjs/test-islandjs/node_modules/.pnpm/flexsearch@0.6.32/node_modules/flexsearch/dist/flexsearch.min.js?commonjs-module": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../flexsearch@0.6.32/node_modules/flexsearch/dist/flexsearch.min.js": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../@islandjs+plugin-search@0.7.31_islandjs@0.7.31/node_modules/@islandjs/plugin-search/src/logic/util.ts": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ],
   "../../../@islandjs+plugin-search@0.7.31_islandjs@0.7.31/node_modules/@islandjs/plugin-search/src/logic/search.ts": [
-    "/test-islandjs/assets/search.f9f7414f.js"
+    "/test-islandjs/assets/search.2c7da2c1.js"
   ]
 }
