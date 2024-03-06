@@ -28,6 +28,8 @@ import "react/jsx-runtime";
 import { g as getAllPages, n as normalizeHref, w as withBase } from "../ssr-entry.mjs";
 import "react-dom/server";
 import "react-router-dom";
+import "zod";
+import "@xyflow/react";
 import "nprogress";
 import "copy-to-clipboard";
 import "body-scroll-lock";
@@ -120,6 +122,7 @@ class PageSearcher {
     __privateGet(this, _index).add(pagesForSearch);
     __privateGet(this, _cjkIndex).add(pagesForSearch);
   }
+  // @ts-expect-error define variable d
   async match(query, limit = 7) {
     var _a, _b;
     const searchResult = await Promise.all([
@@ -168,7 +171,6 @@ matchHeader_fn = function(item, query, matchedResult) {
 };
 _matchContent = new WeakSet();
 matchContent_fn = function(item, query, matchedResult) {
-  var _a;
   const { content, headers } = item;
   const queryIndex = content.indexOf(query);
   if (queryIndex === -1) {
@@ -185,7 +187,7 @@ matchContent_fn = function(item, query, matchedResult) {
       return hIndex < queryIndex;
     }
   });
-  const currentHeader = (_a = headers[currentHeaderIndex]) != null ? _a : item.title;
+  const currentHeader = headers[currentHeaderIndex] ?? item.title;
   let statementStartIndex = content.slice(0, queryIndex).lastIndexOf("\n");
   statementStartIndex = statementStartIndex === -1 ? 0 : statementStartIndex;
   const statementEndIndex = content.indexOf("\n", queryIndex + query.length);
