@@ -21,9 +21,6 @@
   ],
   "../../../../../applications/web/site/client-entry.js-unocss-hash.css": [
   ],
-  "../../../../../applications/web/site/src/components/faq/FaqItem.tsx": [
-    "/test-islandjs/assets/index-u5d8rBKX.js"
-  ],
   "../../../../../applications/web/site/src/content/.island/styles/index.css": [
   ],
   "../../../../../applications/web/site/src/content/concepts/did/index.md": [
@@ -36,13 +33,7 @@
     "/test-islandjs/assets/index-F9lg8Zh-.js"
   ],
   "../../../../../applications/web/site/src/content/services/resolver/index.mdx": [
-    "/test-islandjs/assets/index-u5d8rBKX.js"
-  ],
-  "../../../../../packages/settings/dist/index.js": [
-    "/test-islandjs/assets/index-u5d8rBKX.js"
-  ],
-  "../../../../../packages/types/dist/index.js": [
-    "/test-islandjs/assets/index-u5d8rBKX.js"
+    "/test-islandjs/assets/index-asZHgsxR.js"
   ],
   "../../../@babel+runtime@7.23.9/node_modules/@babel/runtime/helpers/esm/extends.js": [
   ],
@@ -479,9 +470,6 @@
   "../../../shallowequal@1.1.0/node_modules/shallowequal/index.js": [
   ],
   "../../../toggle-selection@1.0.6/node_modules/toggle-selection/index.js": [
-  ],
-  "../../../zod@3.22.4/node_modules/zod/lib/index.mjs": [
-    "/test-islandjs/assets/index-u5d8rBKX.js"
   ],
   "src/runtime/Content.tsx": [
     "/test-islandjs/assets/Content-eUlE3DWP.js"
