@@ -1,3 +1,5 @@
+/*! ./did-example-ethr-0x.webp */
+
 /*! @mdx-js/react */
 
 /*! react/jsx-runtime */
