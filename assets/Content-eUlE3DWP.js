@@ -1,1 +1,0 @@
-import{C as t,Q as e}from"../client-entry.js";import{Suspense as r}from"react";import{jsx as s}from"react/jsx-runtime";const l=()=>{const o=t(e);return s(r,{fallback:null,children:o})};export{l as C};

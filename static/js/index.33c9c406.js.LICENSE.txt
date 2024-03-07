@@ -1,0 +1,626 @@
+/*! ./Content */
+
+/*! character-reference-invalid */
+
+/*! ./factoryWithThrowingShims */
+
+/*! ./hooks */
+
+/*! react */
+
+/*! react */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/diff */
+
+/*! react-syntax-highlighter */
+
+/*! react */
+
+/*! react */
+
+/**
+ * Prism: Lightweight, robust, elegant syntax highlighting
+ *
+ * @license MIT <https://opensource.org/licenses/MIT>
+ * @author Lea Verou <https://lea.verou.me>
+ * @namespace
+ * @public
+ */
+
+/*! refractor/lang/scss.js */
+
+/*! @rspress/runtime */
+
+/*! virtual-site-data */
+
+/*! react/jsx-runtime */
+
+/*! @rspress/shared */
+
+/*! react/jsx-runtime */
+
+/*! space-separated-tokens */
+
+/*! refractor/lang/typescript.js */
+
+/*! /Users/antonioivanovski/dev/verified-os/applications/web/site/docs/services/iam/index.md */
+
+/*! react/jsx-runtime */
+
+/*! ./lang/css */
+
+/*! ./useLocaleSiteData */
+
+/*! virtual-global-components */
+
+/*! core-js/modules/web.url-search-params.has.js */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/xml-doc */
+
+/*! ./lang/javascript */
+
+/*! body-scroll-lock */
+
+/*! react/jsx-runtime */
+
+/*! htmr */
+
+/*! react/jsx-runtime */
+
+/*! virtual-prism-languages */
+
+/*! ./util/case-insensitive-transform */
+
+/*! ./lib/xmlns */
+
+/*! react */
+
+/*! ./sideEffects */
+
+/*! react */
+
+/*! core-js/modules/esnext.iterator.map.js */
+
+/*! ./index.module.scss */
+
+/*! ./html */
+
+/*! react-dom */
+
+/*! #theme/components/Link */
+
+/*! react-helmet-async */
+
+/*! refractor/lang/xml-doc.js */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/typescript */
+
+/*! @rspress/shared */
+
+/*! react */
+
+/*! react */
+
+/*! react */
+
+/*! virtual-search-hooks */
+
+/*! react */
+
+/*! ./bundle.css */
+
+/*! core-js/modules/esnext.async-iterator.map.js */
+
+/*! react */
+
+/*! ./MediumZoom.css */
+
+/*! react/jsx-runtime */
+
+/*! ./useLocaleSiteData */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/less */
+
+/*! is-decimal */
+
+/*! core-js/modules/esnext.iterator.constructor.js */
+
+/*! ./useHiddenNav */
+
+/*! @rspress/runtime */
+
+/*! react */
+
+/*! virtual-routes */
+
+/*! virtual-routes */
+
+/*! react */
+
+/*! core-js/modules/web.url-search-params.delete.js */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @theme-assets/menu */
+
+/*! nprogress */
+
+/*! react */
+
+/*! react */
+
+/*! @theme-assets/github */
+
+/*! ./lib/util/defined-info */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/scss */
+
+/*! ./lib/index.js */
+
+/*! #theme/logic */
+
+/*! ./lib/util/info */
+
+/*! @rspress/shared */
+
+/*! ./html-tags.json */
+
+/*! ./util/types */
+
+/*! ./util/create */
+
+/*! medium-zoom 1.0.8 | MIT License | https://github.com/francoischalifour/medium-zoom */
+
+/*! toggle-selection */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/javascript */
+
+/*! ./highlight */
+
+/*! @rspress/runtime */
+
+/*! refractor/lang/yaml.js */
+
+/*! @theme-assets/header */
+
+/*! react */
+
+/*! core-js/modules/web.url-search-params.size.js */
+
+/*! refractor/core */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/css */
+
+/*! @rspress/shared */
+
+/*! ./schema */
+
+/*! ./util/create */
+
+/*! /Users/antonioivanovski/dev/verified-os/applications/web/site/docs/services/resolver/index.mdx */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! ./create-element */
+
+/*! is-html */
+
+/*! react-router-dom */
+
+/*! react */
+
+/*! is-decimal */
+
+/*! core-js/modules/esnext.iterator.map.js */
+
+/*! ./schema */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! core-js/modules/esnext.iterator.constructor.js */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! react-lazy-with-preload */
+
+/*! @rspress/runtime */
+
+/*! prismjs/components/prism-core */
+
+/*! ./lang/markup */
+
+/*! core-js/modules/esnext.iterator.map.js */
+
+/*! core-js/modules/esnext.async-iterator.map.js */
+
+/*! ./factory */
+
+/*! ./lib/xlink */
+
+/*! @theme */
+
+/*! flexsearch */
+
+/*! core-js/modules/esnext.iterator.constructor.js */
+
+/*! @theme-assets/loading */
+
+/*! character-entities-legacy */
+
+/*! ./util/create */
+
+/*! @babel/runtime/helpers/defineProperty */
+
+/*! core-js/modules/esnext.async-iterator.filter.js */
+
+/*! ./lang/clike */
+
+/*! react-dom/client */
+
+/*! refractor/lang/less.js */
+
+/*! ./lib/xml */
+
+/*! core-js/modules/esnext.async-iterator.map.js */
+
+/*! #theme/logic/sideEffects */
+
+/*! refractor/lang/css.js */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/bash */
+
+/*! medium-zoom */
+
+/*! hast-util-parse-selector */
+
+/*! hastscript */
+
+/*! /Users/antonioivanovski/dev/verified-os/applications/web/site/docs/concepts/did/index.md */
+
+/*! @theme-assets/search */
+
+/*! @theme-assets/close */
+
+/*! @theme-assets/arrow-right */
+
+/*! core-js/modules/esnext.iterator.filter.js */
+
+/*! react */
+
+/*! ./prism-light */
+
+/*! @rspress/runtime */
+
+/*! ./lib/aria */
+
+/*! virtual-site-data */
+
+/*! ./usePathUtils */
+
+/*! react/jsx-runtime */
+
+/*! virtual-routes */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @rspress/runtime */
+
+/*! react */
+
+/*! shallowequal */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! core-js/modules/esnext.async-iterator.find.js */
+
+/*! @rspress/runtime */
+
+/*! react */
+
+/*! nprogress */
+
+/*! @theme-assets/wrapped */
+
+/*! is-html */
+
+/*! ./App */
+
+/*! @rspress/shared */
+
+/*! prop-types */
+
+/*! @theme-assets/down */
+
+/*! react-dom */
+
+/*! react */
+
+/*! ./decode-entity */
+
+/*! ./util/case-insensitive-transform */
+
+/*! /Users/antonioivanovski/dev/verified-os/applications/web/site/docs/concepts/did/index.md */
+
+/*! @theme-assets/translator */
+
+/*! core-js/modules/esnext.async-iterator.find.js */
+
+/*! ./typescript.js */
+
+/*! core-js/modules/web.url-search-params.delete.js */
+
+/*! react */
+
+/*! @theme-assets/wrap */
+
+/*! refractor/lang/bash.js */
+
+/*! invariant */
+
+/*! is-alphanumerical */
+
+/*! ./utils */
+
+/*! @theme-assets/title */
+
+/*! react */
+
+/*! comma-separated-tokens */
+
+/*! @babel/runtime/helpers/defineProperty */
+
+/*! react */
+
+/*! ./case-sensitive-transform */
+
+/*! @rspress/runtime */
+
+/*! ./useLocaleSiteData */
+
+/*! @theme-assets/success */
+
+/*! react/jsx-runtime */
+
+/*! htmr */
+
+/*! react/jsx-runtime */
+
+/*! nprogress/nprogress.css */
+
+/*! virtual-search-index-hash */
+
+/*! @theme-assets/arrow-down */
+
+/*! react-helmet-async */
+
+/*! ./util/types */
+
+/*! ./utils */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! ./normalize */
+
+/*! refractor/lang/diff.js */
+
+/*! lodash-es */
+
+/*! @theme-assets/copy */
+
+/*! @theme-assets/jump */
+
+/*! /Users/antonioivanovski/dev/verified-os/applications/web/site/docs/services/resolver/index.mdx */
+
+/*! react/jsx-runtime */
+
+/*! copy-to-clipboard */
+
+/*! @theme-assets/file */
+
+/*! core-js/modules/esnext.iterator.constructor.js */
+
+/*! @rspress/runtime */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/json */
+
+/*! @theme */
+
+/*! react/jsx-runtime */
+
+/*! @theme-assets/empty */
+
+/*! /Users/antonioivanovski/dev/verified-os/applications/web/site/docs/services/iam/index.md */
+
+/*! @babel/runtime/helpers/objectWithoutProperties */
+
+/*! property-information/html */
+
+/*! ./lib/util/merge */
+
+/*! react-fast-compare */
+
+/*! react */
+
+/*! react */
+
+/*! virtual-site-data */
+
+/*! /Users/antonioivanovski/dev/verified-os/node_modules/.pnpm/@rspress+plugin-medium-zoom@1.13.2_@rspress+runtime@1.13.2/node_modules/@rspress/plugin-medium-zoom/src/components/MediumZoom.tsx */
+
+/*! virtual-site-data */
+
+/*! @rspress/runtime */
+
+/*! @theme-assets/moon */
+
+/*! react-router-dom */
+
+/*! core-js/modules/web.url-search-params.has.js */
+
+/*! react */
+
+/*! lodash-es */
+
+/*! ./info */
+
+/*! react */
+
+/*! ./NoSSR */
+
+/*! @theme-assets/sun */
+
+/*! ./util/create */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/tsx */
+
+/*! @theme-assets/small-menu */
+
+/*! core-js/modules/es.array.includes.js */
+
+/*! react */
+
+/*! core-js/modules/esnext.iterator.find.js */
+
+/*! react */
+
+/*! ./types */
+
+/*! parse-entities */
+
+/*! Bundled license information:
+
+lodash-es/lodash.js:
+  (**
+   * @license
+   * Lodash (Custom Build) <https://lodash.com/>
+   * Build: `lodash modularize exports="es" -o ./`
+   * Copyright OpenJS Foundation and other contributors <https://openjsf.org/>
+   * Released under MIT license <https://lodash.com/license>
+   * Based on Underscore.js 1.8.3 <http://underscorejs.org/LICENSE>
+   * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+   *)
+*/
+
+/*! refractor/lang/javascript.js */
+
+/*! virtual-routes */
+
+/*! @babel/runtime/helpers/toConsumableArray */
+
+/*! @rspress/runtime */
+
+/*! core-js/modules/esnext.iterator.find.js */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! ./utils */
+
+/*! #theme/logic/useNav */
+
+/*! ./lib/html */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! react */
+
+/*! #theme/logic/useUISwitch */
+
+/*! is-alphabetical */
+
+/*! #theme/logic */
+
+/*! @rspress/shared */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/markdown */
+
+/*! react */
+
+/*! @theme-assets/gitlab */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! react */
+
+/*! property-information/normalize */
+
+/*! refractor/lang/json.js */
+
+/*! @mdx-js/react */
+
+/*! core-js/modules/esnext.async-iterator.filter.js */
+
+/*! ./checkForListedLanguage */
+
+/*! refractor/lang/markdown.js */
+
+/*! react */
+
+/*! refractor/lang/tsx.js */
+
+/*! ./lib/ReactPropTypesSecret */
+
+/*! ./util/create */
+
+/*! react/jsx-runtime */
+
+/*! #theme/logic/useRedirect4FirstVisit */
+
+/*! react/jsx-runtime */
+
+/*! ./bundle */
+
+/*! ./hooks */
+
+/*! core-js/modules/web.url-search-params.size.js */
+
+/*! react-helmet-async */
+
+/*! xtend */
+
+/*! virtual-site-data */
+
+/*! react/jsx-runtime */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/yaml */
+
+/*! @theme */
+
+/*! @babel/runtime/helpers/extends */
+
+/*! core-js/modules/esnext.iterator.filter.js */
+
+/*! ./jsx.js */
+
+/*! is-hexadecimal */
+
+/*! ./defined-info */
+
+/*! react */
+
+/*! property-information/find */
+
+/*! ../../normalize */
+
+/*! html-tags */
