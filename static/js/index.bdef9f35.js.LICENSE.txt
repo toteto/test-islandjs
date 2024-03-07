@@ -1,7 +1,5 @@
 /*! ./Content */
 
-/*! ../../normalize */
-
 /*! react */
 
 /*! character-reference-invalid */
@@ -18,7 +16,7 @@
 
 /*! core-js/modules/esnext.iterator.constructor.js */
 
-/*! /Users/antonioivanovski/dev/verified-os/applications/web/site/docs/concepts/did/index.md */
+/*! /Users/antonioivanovski/dev/verified-os/applications/web/site/docs/services/iam/index.md */
 
 /*! react/jsx-runtime */
 
@@ -59,9 +57,9 @@
 
 /*! core-js/modules/esnext.async-iterator.filter.js */
 
-/*! /Users/antonioivanovski/dev/verified-os/applications/web/site/docs/services/iam/index.md */
-
 /*! ./lang/css */
+
+/*! /Users/antonioivanovski/dev/verified-os/applications/web/site/docs/index.md */
 
 /*! react-dom/client */
 
@@ -125,6 +123,8 @@
 
 /*! @rspress/runtime */
 
+/*! /Users/antonioivanovski/dev/verified-os/applications/web/site/docs/services/resolver/index.mdx */
+
 /*! nprogress */
 
 /*! @theme-assets/wrapped */
@@ -159,8 +159,6 @@
 
 /*! @theme-assets/wrap */
 
-/*! /Users/antonioivanovski/dev/verified-os/applications/web/site/docs/services/resolver/index.mdx */
-
 /*! ./lib/util/defined-info */
 
 /*! react-syntax-highlighter/dist/esm/languages/prism/scss */
@@ -173,15 +171,15 @@
 
 /*! react */
 
-/*! ./html-tags.json */
-
 /*! react */
+
+/*! ./html-tags.json */
 
 /*! @rspress/runtime */
 
-/*! ./util/types */
-
 /*! ./useLocaleSiteData */
+
+/*! ./util/types */
 
 /*! ./util/create */
 
@@ -191,8 +189,6 @@
 
 /*! toggle-selection */
 
-/*! /Users/antonioivanovski/dev/verified-os/applications/web/site/docs/services/iam/index.md */
-
 /*! react-syntax-highlighter/dist/esm/languages/prism/javascript */
 
 /*! ./highlight */
@@ -201,9 +197,9 @@
 
 /*! react/jsx-runtime */
 
-/*! refractor/lang/yaml.js */
-
 /*! nprogress/nprogress.css */
+
+/*! refractor/lang/yaml.js */
 
 /*! virtual-search-index-hash */
 
@@ -241,11 +237,11 @@
 
 /*! @theme-assets/file */
 
-/*! ./schema */
-
 /*! core-js/modules/esnext.iterator.constructor.js */
 
 /*! @rspress/runtime */
+
+/*! ./schema */
 
 /*! @theme */
 
@@ -297,8 +293,6 @@
 
 /*! core-js/modules/esnext.iterator.find.js */
 
-/*! /Users/antonioivanovski/dev/verified-os/applications/web/site/docs/services/resolver/index.mdx */
-
 /*! react */
 
 /*! refractor/lang/less.js */
@@ -340,6 +334,8 @@ lodash-es/lodash.js:
 /*! react/jsx-runtime */
 
 /*! ./lib/aria */
+
+/*! /Users/antonioivanovski/dev/verified-os/applications/web/site/docs/index.md */
 
 /*! react/jsx-runtime */
 
@@ -403,13 +399,15 @@ lodash-es/lodash.js:
 
 /*! @babel/runtime/helpers/defineProperty */
 
-/*! ./case-sensitive-transform */
-
 /*! core-js/modules/web.url-search-params.size.js */
+
+/*! ./case-sensitive-transform */
 
 /*! react-helmet-async */
 
 /*! react/jsx-runtime */
+
+/*! /Users/antonioivanovski/dev/verified-os/applications/web/site/docs/concepts/did/index.md */
 
 /*! @theme */
 
@@ -435,6 +433,8 @@ lodash-es/lodash.js:
 
 /*! react */
 
+/*! /Users/antonioivanovski/dev/verified-os/applications/web/site/docs/services/iam/index.md */
+
 /*! react-syntax-highlighter */
 
 /*! react */
@@ -445,9 +445,9 @@ lodash-es/lodash.js:
 
 /*! virtual-site-data */
 
-/*! @babel/runtime/helpers/objectWithoutProperties */
-
 /*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/objectWithoutProperties */
 
 /*! property-information/html */
 
@@ -459,9 +459,9 @@ lodash-es/lodash.js:
 
 /*! react */
 
-/*! /Users/antonioivanovski/dev/verified-os/node_modules/.pnpm/@rspress+plugin-medium-zoom@1.13.2_@rspress+runtime@1.13.2/node_modules/@rspress/plugin-medium-zoom/src/components/MediumZoom.tsx */
-
 /*! react/jsx-runtime */
+
+/*! /Users/antonioivanovski/dev/verified-os/node_modules/.pnpm/@rspress+plugin-medium-zoom@1.13.2_@rspress+runtime@1.13.2/node_modules/@rspress/plugin-medium-zoom/src/components/MediumZoom.tsx */
 
 /*! virtual-site-data */
 
@@ -515,9 +515,9 @@ lodash-es/lodash.js:
 
 /*! react */
 
-/*! @babel/runtime/helpers/toConsumableArray */
-
 /*! react */
+
+/*! @babel/runtime/helpers/toConsumableArray */
 
 /*! react */
 
@@ -536,6 +536,8 @@ lodash-es/lodash.js:
 /*! react/jsx-runtime */
 
 /*! ./utils */
+
+/*! /Users/antonioivanovski/dev/verified-os/applications/web/site/docs/services/resolver/index.mdx */
 
 /*! ./useLocaleSiteData */
 
@@ -624,3 +626,5 @@ lodash-es/lodash.js:
 /*! ./defined-info */
 
 /*! property-information/find */
+
+/*! ../../normalize */
